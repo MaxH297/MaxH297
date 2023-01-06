@@ -10,10 +10,10 @@ My name is Max and on this profile I will put some of my projects that I have be
 
 ### Machine Learning
 
-[Predicting outcome of football games by looking at team's form](): Creating odds with multinomial logistic regression for football matches. Those are compared to actual odds at the time of the game provided by Bet365.
+[Predicting outcome of football games by looking at team's form](https://github.com/MaxH297/football-odds.git): Creating odds with multinomial logistic regression for football matches. Those are compared to actual odds at the time of the game provided by Bet365.
 
 [Predicting landing success of SpaceX Falcon 9 rocket](https://github.com/MaxH297/MaxH297/blob/3047a58201f4d51134fe57fd680205d89e971af9/capstone-falcon9.ipynb): My result of the final capstone project of IBM Professional Data Science Certificate. Whether stage 1 of a rocket lands after a mission and can be recuperated determines financial success of entire mission. This project covers data collection through APIs and webscraping, various data visualization techniques and training different types of machine learning models.
 
 ### Miscellaneous 
 
-[Simple stock trading bot and simulation environment](): Combines yfinance library to get live stock data with a web driver that can be used to make deals on Trading212. A simulation script allows to evaluate different trading setups based on historical stock data.
+[Simple stock trading bot and simulation environment](https://github.com/MaxH297/stock-trading.git): Combines yfinance library to get live stock data with a web driver that can be used to make deals on Trading212. A simulation script allows to evaluate different trading setups based on historical stock data.
